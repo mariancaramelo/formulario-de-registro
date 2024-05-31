@@ -1,0 +1,115 @@
+
+
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+body{
+    background-image: url(m.jpg);
+    background-size: cover ;
+   background-position: center;
+}
+.formulario{
+
+    width: 50%;
+    height: 630px;
+    text-align: center;
+    backdrop-filter: blur(20px);
+    position: relative;
+    right: -250px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid #fff;
+}
+h1{
+    color:blueviolet;
+}
+.ok{
+    width: 80%;
+    height: 40px;
+    margin: 2px;
+    border-radius: 20px;
+    background: transparent;
+
+}
+p{
+    display: inline;
+    margin: 5px;
+    color: blueviolet;
+}
+.dia{
+    color: blueviolet;
+    border-radius: 10px;
+    margin: 5px;
+    height: 30px;
+    background: transparent;
+}
+.mes{
+    color: blueviolet;
+    border-radius: 10px;
+    margin: 5px;
+    height: 30px;
+    background: transparent;
+}
+
+.año{
+    color: blueviolet;
+    border-radius: 10px;
+    margin: 5px;
+    height: 30px;
+    background: transparent;
+
+}
+.r{
+    width: 20%;
+    float: left;
+    padding: 10px 10px;
+    margin: 10px;
+}
+.l{
+    width: 20%;
+    float: left;
+    padding: 10px 10px;
+    margin: 10px;
+}
+.s{
+    width: 20%;
+    float: left;
+    padding: 10px 10px;
+    margin: 10px;
+}
+.k{
+    width: 5%;
+    position: relative;
+    float: left;
+    padding: 10px 10px;
+    margin: 10px;
+}
+.boton{
+
+    width: 20%;
+    height: 40px;
+    border-radius: 20px;
+    margin: 10px;
+    background: transparent;
+    color:blueviolet;
+}
+a{
+    color: blueviolet;
+    text-decoration: none;
+    display: block;
+}
+.m{
+    width: 50%;
+    height: 300px;
+    text-align: center;
+    backdrop-filter: blur(20px);
+    position: relative;
+    right: -250px;
+    top: 200px;
+    padding: 20px;
+    border: 1px solid #fff;
+    border-radius: 20px ;
+}
