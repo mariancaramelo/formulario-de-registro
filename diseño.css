@@ -7,7 +7,7 @@
     padding: 0;
 }
 body{
-    background-image: url(m.jpg);
+    background-image: url(nube.jpg);
     background-size: cover ;
    background-position: center;
 }
@@ -24,7 +24,7 @@ body{
     border: 1px solid #fff;
 }
 h1{
-    color:blueviolet;
+    color:rgb(120, 72, 168);
 }
 .ok{
     width: 80%;
@@ -37,17 +37,17 @@ h1{
 p{
     display: inline;
     margin: 5px;
-    color: blueviolet;
+    color: rgb(120, 72, 168);
 }
 .dia{
-    color: blueviolet;
+    color: rgb(120, 72, 168);
     border-radius: 10px;
     margin: 5px;
     height: 30px;
     background: transparent;
 }
 .mes{
-    color: blueviolet;
+    color: rgb(120, 72, 168);
     border-radius: 10px;
     margin: 5px;
     height: 30px;
@@ -55,7 +55,7 @@ p{
 }
 
 .año{
-    color: blueviolet;
+    color: rgb(120, 72, 168);
     border-radius: 10px;
     margin: 5px;
     height: 30px;
@@ -107,8 +107,8 @@ a{
     text-align: center;
     backdrop-filter: blur(20px);
     position: relative;
-    right: -250px;
-    top: 200px;
+    right: -320px;
+    top: 100px;
     padding: 20px;
     border: 1px solid #fff;
     border-radius: 20px ;
